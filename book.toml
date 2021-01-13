@@ -1,0 +1,7 @@
+[book]
+title = "《美国反对美国》"
+author = "王沪宁"
+description = "本书作者以一个观察者去研究和看待美国社会,主要探讨美国社会的政治和社会管理过程,书中具体描绘和事实纪录多于抽象推理,主要是用事实的美国对想象中的美国。"
+language = "zh-cn"
+multilingual = false
+src = "src"
